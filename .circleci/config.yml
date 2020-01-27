@@ -1,6 +1,6 @@
 workflows:
   version: 2
-      jobs: 
+      jobs:
         build:
           docker:
             - image: circleci/node:9.10.1
